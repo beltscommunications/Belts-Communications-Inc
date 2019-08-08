@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Belts Communications Inc.
 
-You can use the [editor on GitHub](https://github.com/beltscommunications/fiber-cabling/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are leaders in infractructure technologies, we handle network, cabling, fiber, coaxial, to just name a few. We have over 30 years of experience in the industry!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please contact: Jose Beltran 
+Email: jbetran@beltscommunications.inc
 
 ### Markdown
 
