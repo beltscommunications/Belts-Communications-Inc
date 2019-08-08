@@ -6,7 +6,7 @@ President: Jose Beltran
 
 Mobile: 323-819-3111
 
-Email: jbetran@beltscommunications.inc
+Email: jbetran@beltscommunication.com
 
 ### Markdown
 
